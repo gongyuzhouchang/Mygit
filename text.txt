@@ -1,2 +1,0 @@
-use "touch text.txt" to build a txt file.
-My second file.
